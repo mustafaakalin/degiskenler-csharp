@@ -1,0 +1,7 @@
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\degiskenler\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\degiskenler\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\degiskenler\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.AssemblyReference.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\degiskenler\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\serap\OneDrive\Desktop\consoleuygulamalari\degiskenler\degiskenler\obj\Debug\degiskenler.pdb
